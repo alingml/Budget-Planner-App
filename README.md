@@ -1,3 +1,16 @@
+This is a project I finished recently where I learned how to manage a global state using Context API.
+
+Technology used: 
+
+- React
+- Bootstrap
+- UUID v4 to create unique IDs
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
